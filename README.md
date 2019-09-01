@@ -25,9 +25,9 @@ What things you need to install the software and how to install them
  
 # Authors
 
-    Salil Gautam - salil-gtm
-    G Kranthi Kiran - kranthik13
-    G Mothy - G-Slient
+    Salil Gautam - [salil-gtm](https://github.com/salil-gtm)
+    G Kranthi Kiran - [kranthik13](https://github.com/kranthik13)
+    G Mothy - [G-Slient](https://github.com/G-Slient)
 
 # License
 
