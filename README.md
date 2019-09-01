@@ -1,33 +1,40 @@
-# D-Stress
+## D-Stress
 
 Mental Stress is a serious issue which can degrade an employee’s productivity and performance, impact your physical and emotional health, and affect your relationships and home life. It can even determine success or failure on the job.
 
+## Solution
 
-# Prerequisites
+* We have built a portal where an HR Manager can search the employees his/her credentials or employee id and check whether           he/she requires treatment or not.
+* We basically predict a probability whether treatment is required or not and then its HR Manager’s call to approve him/her for any stress relief packages to reduce stress.
+
+
+
+## Prerequisites
 
 What things you need to install the software and how to install them
   
-  1. Python (>=Python 3.5)
+  1. Python (Python 3.7)
   2. Node
   3. Flask
  
-# Built With
+## Built With
 
     [Python]
     [Node]
     [Flask]
    
-# Future Works [WiP]
+## Future Works [WiP]
 
   1. Feedback loop
   2. Survey details filling
   3. Reports on basis of whole organization
- 
-# Authors
+    
+## Authors
 
-    Salil Gautam - [salil-gtm](https://github.com/salil-gtm)
-    G Kranthi Kiran - [kranthik13](https://github.com/kranthik13)
-    G Mothy - [G-Slient](https://github.com/G-Slient)
+* **Salil Gautam** - [salil-gtm](https://github.com/salil-gtm)
+* **G Kranthi Kiran** - [kranthik13](https://github.com/kranthik13)
+* **G Mothy** - [G-Slient](https://github.com/G-Slient)
+
 
 # License
 
