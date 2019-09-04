@@ -4,26 +4,17 @@ Mental Stress is a serious issue which can degrade an employee’s productivity 
 
 ## Solution
 
-* We have built a portal where an HR Manager can search the employees his/her credentials or employee id and check whether           he/she requires treatment or not.
+* We have built a portal where an HR Manager can search the employees his/her credentials or employee id and check whether he/she requires treatment or not.
 * We basically predict a probability whether treatment is required or not and then its HR Manager’s call to approve him/her for any stress relief packages to reduce stress.
+* If HR Manager approves the leave then the employee is notified via instant mail service informing him about the stress-relief package.
 
-
-
-## Prerequisites
-
-What things you need to install the software and how to install them
-  
-  1. Python (Python 3.7)
-  2. Node
-  3. Flask
- 
 ## Built With
 
     [Python]
     [Node]
     [Flask]
    
-## Future Works [WiP]
+## Future Works [WIP]
 
   1. Feedback loop
   2. Survey details filling
